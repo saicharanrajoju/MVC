@@ -61,9 +61,4 @@ A robust and scalable E-Commerce platform built with **ASP.NET Core 3.1 MVC**, f
 
 The application uses `appsettings.json` for configuration. API keys and secrets (like `JwtConfig:SecretKey`) should be managed securely (e.g., using User Secrets in development).
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-*Built with ❤️ by Sai Charan Rajoju*
